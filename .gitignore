@@ -32,3 +32,6 @@ __pycache__/
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# Folders
+/1_regio/
